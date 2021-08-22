@@ -1,0 +1,7 @@
+.link:focus {
+  outline: none;
+}
+
+.active {
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 6px #2491eb;
+}
