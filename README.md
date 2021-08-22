@@ -16,3 +16,5 @@ npm run build
 Source js code locate in ```src``` folder.
 
 Builded project locate in ```public``` folder.
+
+## [Download and install](https://addons.mozilla.org/firefox/addon/koala-search/)
